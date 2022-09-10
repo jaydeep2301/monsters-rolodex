@@ -1,7 +1,26 @@
 .App {
   text-align: center;
 }
-
+.input-user {
+  margin-top: 5%;
+}
+input {
+  margin-right: 2%;
+  width: 200px;
+  height: 30px;
+}
+.selectbox {
+  display: flex;
+  justify-content: center;
+}
+.select {
+  width: 450px;
+  margin-top: 4%;
+}
+button {
+  width: 100px;
+  height: 30px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
